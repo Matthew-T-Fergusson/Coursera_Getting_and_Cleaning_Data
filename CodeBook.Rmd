@@ -32,6 +32,8 @@ For each record in the dataset it is provided:
 
 #Activity_Recognition_Data_5
 
+Below are descriptions of the columns ("Subject", "row_id", "activity", "MeasurementType", "Axis", "mean", and "std") found in the data set produced prior to taking averages. 
+
 * Subject
     * Description: Identifyer differentiating the 30 volunteer subjects that were used to collect the data.
     * Data Type: integer
@@ -100,6 +102,8 @@ For each record in the dataset it is provided:
 
 #Activity_Recognition_Data_Avg_2
 *Fields in addition to those in Activity_Recognition_Data_5*
+
+Below are descriptions of the additional columns ("mean_avg" and "std_avg") found in the final data set that was exported and submitted for the Getting and Cleaning Data Project.
 
 * Columns Dropped - columns dropped to aggregate mean_avg and std_avg 
     * *row_id*
