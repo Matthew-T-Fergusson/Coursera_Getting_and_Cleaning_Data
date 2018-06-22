@@ -5,6 +5,10 @@ date: "July 22, 2015"
 output: html_document
 ---
 
+##Background
+
+This Repository was created as an assignment for a Coursera Data Science specialization from Johns Hopkins University.
+
 ##Introduction
 
 This document will walk through the steps taken to create the "Activity_Recognition_Data_Avg.csv" file from the txt files provided for the project in the "getdata_projectfiles_UCI_HAR_Dataset.zip". 
