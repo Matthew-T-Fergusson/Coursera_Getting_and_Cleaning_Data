@@ -1,3 +1,9 @@
+# Historical Coursework Note
+
+> **Historical coursework repository — archived.**
+>
+> This repository contains an older Johns Hopkins/Coursera Getting and Cleaning Data assignment. It is retained publicly as a historical learning artifact from earlier data-cleaning coursework, not as a current portfolio centerpiece or actively maintained project.
+
 ---
 title: 'README: Getting and Cleaning Data Course Project'
 author: "Matthew Fergusson"
